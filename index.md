@@ -6,8 +6,6 @@
 [LINKS](https://github.com/yahyagolds23/os212/blob/master/links.md) ||
 
 ---
-<br>
-
 ### HELLO EVERYONE<br>
 I am Mochammad Agus Yahya, Welcome to my repository for os212. <br>
 yuk bisa yuk <br>

@@ -14,4 +14,12 @@ permalink: /LINKS/
  This blog really gives me a clear introduce about what linux is and why we must learn.<br>
  It makes me know more about the advantages of linux.<br>
  After reading this, you will interest to start using linux in a daily basis.
+ ## Week 2
+ 1. [After All These Years, the World is Still Powered by C Programming](https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming)<br>
+  Despite the prevalence of higher-level languages, the C programming language continues to empower the world. 
+  There are plenty of reasons to believe that C programming will remain active for a long time.
+ ## Week 3
+ 1. [What is File System?](https://www.guru99.com/file-systems-operating-system.html)<br>
+  Introduce the basic knowledge about file system, the structure, and types.<br>
+  In addition, this website shows me the objective of file management and file access method.
 

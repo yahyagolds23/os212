@@ -36,3 +36,13 @@ ZCZC W03 60 L01 Scele/Discord related
 ZCZC W03 100 L70 Studying for quiz
 ZCZC W03 120 L84 Relax, Rest, and Sleep
 ZCZC W03 60 L32 Youtube: study, etc. 
+ZCZC W04 90 L02 Zoom meetings related
+ZCZC W04 40 l09 Assignment in General
+ZCZC W04 30 L03 GitHub related
+ZCZC W04 40 L80 Watch some Youtube videos
+ZCZC W04 60 L70 Studying for quiz
+ZCZC W04 100 L01 Scele/Discord related
+ZCZC W04 90 L02 Zoom meetings
+ZCZC W04 20 L81 Listening: Radio, Music, etc.
+ZCZC W04 50 L21 Trying something
+ZCZC W04 180 L84 Relax, Rest, and Sleep

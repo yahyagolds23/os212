@@ -55,3 +55,11 @@ ZCZC W05 30 L81 Listening to music
 ZCZC W05 60 L70 Studying for quiz
 ZCZC W05 90 L09 Doing assignment
 ZCZC W05 120 L84 Relax, Rest, and Sleep
+ZCZC W06 90 L02 Zoom meetings related
+ZCZC W06 100 L01 Scele/Discord related
+ZCZC W06 40 L09 Assignment in General
+ZCZC W06 60 L80 Watch some Youtube videos
+ZCZC W06 40 L81 Listening to music
+ZCZC W06 20 L03 GitHub related
+ZCZC W06 60 L21 Trying something
+ZCZC W06 90 L84 Relax,Rest, and Sleep
